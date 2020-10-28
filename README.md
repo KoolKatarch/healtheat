@@ -1,2 +1,2 @@
-# healtheat
+# earhealthy
 eat healthy food
